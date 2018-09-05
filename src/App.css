@@ -26,3 +26,16 @@ h2{
 .ingredients{
   font-weight: bold;
 }
+button{
+  background-color: #739900;
+  width:50px;
+  min-height:20px; ;
+  border:none;
+  outline: none;
+  padding: 0;
+  margin-right:20px;
+}
+
+button:active {
+  background-color: olive;
+}
