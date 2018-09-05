@@ -1,0 +1,28 @@
+
+body{
+  background: url("menu_img.jpg") top center no-repeat;
+  background-size: cover;
+
+}
+#root{
+  border: 2px solid olive;
+  max-width:600px;
+  margin: 50px auto;
+  background-color: #739900;
+  height: 100vh;
+}
+
+h1{
+  font-size:36px;
+}
+h2{
+  text-decoration: underline;
+}
+
+.instructions{
+  list-style-type: decimal;
+}
+
+.ingredients{
+  font-weight: bold;
+}
